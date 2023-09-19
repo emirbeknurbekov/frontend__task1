@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}.container{align-items:center;background-color:#fff5ec;display:flex;flex-direction:column;gap:7%;height:100vh;justify-content:center}.counter,.header{color:#f2994a;font-size:30px;font-weight:700}.counter__btns{align-items:center;display:flex;gap:30%;justify-content:center;width:20%}.counter__btns__decrement,.counter__btns__increment{align-items:center;background:#f2994a;border-radius:12px;box-shadow:0 0 20px #faf6f4;cursor:pointer;display:flex;justify-content:center;padding:4% 7%}
+/*# sourceMappingURL=main.19b17daa.css.map*/
